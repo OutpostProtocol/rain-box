@@ -1,4 +1,8 @@
-Our fork of 3box to integrate smart contract access control. 3Box's documentation is below.
+Our fork of 3box to integrate smart contract access control. I originally wanted to integrate our smart contracts with 3box from the beginning but after a few days of hacking around I realized that it was too much work for something that isn't a core feature. I also worry that incorporating decentralized storage from the beginning will hurt our ability to remain agile. We'll work on this at a later date. The goal will be to eventually allow people to back up their data to 3box.
+
+Not everything I added has been tested!
+
+3Box's documentation is below:
 
 [![CircleCI](https://img.shields.io/circleci/project/github/3box/3box-js.svg?style=for-the-badge)](https://circleci.com/gh/3box/3box-js)
 [![Discord](https://img.shields.io/discord/484729862368526356.svg?style=for-the-badge)](https://discordapp.com/invite/Z3f3Cxy)
